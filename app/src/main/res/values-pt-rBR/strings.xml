@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desafio Sportheca</string>
+    <string name="user_image">Imagem do Usuário</string>
+    <string name="world_cups_won">Copas do Mundo Vencidas</string>
+    <string name="world_cups_played">Copas do Mundo Disputadas</string>
+</resources>
